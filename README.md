@@ -7,3 +7,6 @@ I have to fix glsl shader part.
 
 **But!** The SPH equation is almost correct. 🍔<br>
 So, you can use the SPH equation for your project! 🥩
+
+![image](https://user-images.githubusercontent.com/15605242/86241948-cf1adf00-bbde-11ea-8629-2087b57064a1.png)
+
