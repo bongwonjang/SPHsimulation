@@ -1,4 +1,4 @@
-# SPHsimulation
+# SPH Simulation
 This is an OpenGL program for SPH simulation.
 
 ## WARNING
